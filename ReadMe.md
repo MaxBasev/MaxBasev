@@ -5,7 +5,7 @@
 - ✨ I'm a freelancer, and you can hire me on [Fiverr](https://www.fiverr.com/maxbasev).
 - 🚀 I love working on personal projects.
 - ✏️ I write articles on my blog.
-- ✉️ Feel free to email me at [i@maxbasev.com](mailto:i@maxbasev.com).
+- ✉️ Feel free to email me at [from-github@maxbasev.com](mailto:from-github@maxbasev.com).
 
 
 ## My badge area 😎
