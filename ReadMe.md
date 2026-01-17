@@ -13,13 +13,17 @@ I’m an **independent full-stack developer** building **SaaS products** and **a
 - [Work with me](https://maxbasev.com)
 - [Fiverr](https://www.fiverr.com/maxbasev)
 
+- **Typical work:** MVP → production, internal dashboards, Telegram/Slack bots, API integrations
+- **Good fit:** founders & small teams who need a reliable “one dev = whole system”
+- **Timezone:** UTC+6 (Bishkek) / remote
+
 ## My badge area 😎
 
 ### Core
 ![TypeScript](https://img.shields.io/badge/TypeScript-%232B7489.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI / LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Vercel%20AI%20SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Vercel%20AI%20SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?&style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-%232A3D59.svg?&style=for-the-badge&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST-%23000000.svg?&style=for-the-badge&logo=rest&logoColor=white)
