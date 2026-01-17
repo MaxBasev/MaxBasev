@@ -3,9 +3,9 @@
 I’m an **independent full-stack developer** building **SaaS products** and **automation systems**
 (bots, integrations, internal dashboards) for founders & small teams.
 
-🌍 Remote (Kyrgyzstan)
-🧩 TypeScript/Node.js • Next.js • Firebase • MongoDB
-⚡ Fast delivery, clean code, maintainable systems
+- 🌍 Remote (Kyrgyzstan)
+- 🧩 TypeScript/Node.js • Next.js • Firebase • MongoDB
+- ⚡ Fast delivery, clean code, maintainable systems
 
 **Links**
 - [Start here / About](https://blog.maxbasev.com/life/about/)
