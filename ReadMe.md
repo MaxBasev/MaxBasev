@@ -7,15 +7,16 @@ I’m an **independent full-stack developer** building **SaaS products** and **a
 - 🧩 TypeScript/Node.js • Next.js • Firebase • MongoDB
 - ⚡ Fast delivery, clean code, maintainable systems
 
-**Links**
-- [Start here / About](https://blog.maxbasev.com/life/about/)
-- [Projects / Lab](https://lab.maxbasev.com)
+## Links
 - [Work with me](https://maxbasev.com)
+- [Projects / Lab](https://lab.maxbasev.com)
+- [Start here / About](https://blog.maxbasev.com/life/about/)
 - [Fiverr](https://www.fiverr.com/maxbasev)
 
-- **Typical work:** MVP → production, internal dashboards, Telegram/Slack bots, API integrations
-- **Good fit:** founders & small teams who need a reliable “one dev = whole system”
-- **Timezone:** UTC+6 (Bishkek) / remote
+**Typical work:** MVP → production, internal dashboards, Telegram/Slack bots, API integrations  
+**Good fit:** founders & small teams who need a reliable “one dev = whole system”  
+**Timezone:** UTC+6 (Bishkek) / remote
+
 
 ## My badge area 😎
 
